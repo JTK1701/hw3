@@ -41,7 +41,7 @@ public class Main {
         System.out.println("Задача 4");
         System.out.println("За 20 имнут машина произвела " + twentyMinutes + " штук бутылок");
         System.out.println("За сутки машина произвела " + twentyFourHours + " штук бутылок");
-        System.out.println("За трое суток машина произвела " + threeDays + " штук бутылок");
+        System.out.println("За трое суток машина произвела " + threeDays + " штук бутылок ");
         System.out.println("За месяц машина произвела " + oneMonth + " штук бутылок");
 
         short cansOfPaint = 120;
