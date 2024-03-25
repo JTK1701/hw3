@@ -30,7 +30,7 @@ public class Main {
         int sheets = paper/students;
         System.out.println(" ");
         System.out.println("Задача 3");
-        System.out.println("На одного ученика рассчитано " + sheets + " листов бумаги");
+        System.out.println("На одного ученика рассчитано " + sheets + " листов бумаги ");
 
         byte bottleInMinute = 16 / 2;
         int twentyMinutes = bottleInMinute * 20;
