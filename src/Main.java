@@ -99,7 +99,7 @@ public class Main {
         System.out.println("Задача 8");
         System.out.println("Маша теперь получает " + salaryM + "р., годовой доход увеличился на " + incomeForTheYearM + "р.");
         System.out.println("Денис теперь получает " + salaryD + "р., годовой доход увеличился на " + incomeForTheYearD + "р.");
-        System.out.println("Кристина теперь получает " + salaryK + "р., годовой доход увеличился на " + incomeForTheYearK + "р.");
+        System.out.println("Кристина теперь получает " + salaryK + "р., годовой доход увеличился на " + incomeForTheYearK + "р. ");
 
 
     }
